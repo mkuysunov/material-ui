@@ -124,4 +124,5 @@ const theme = createTheme({
 });
 ```
 
+<!-- HERE -->
 {{"demo": "pages/customization/density/DensityTool.js", "hideToolbar": true}}
